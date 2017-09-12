@@ -1,0 +1,10 @@
+C:\Users\Wellington Miyake\source\repos\ListView\ListView\bin\Debug\ListView.exe.config
+C:\Users\Wellington Miyake\source\repos\ListView\ListView\bin\Debug\ListView.exe
+C:\Users\Wellington Miyake\source\repos\ListView\ListView\bin\Debug\ListView.pdb
+C:\Users\Wellington Miyake\source\repos\ListView\ListView\obj\Debug\ListView.csprojResolveAssemblyReference.cache
+C:\Users\Wellington Miyake\source\repos\ListView\ListView\obj\Debug\ListView.Properties.Resources.resources
+C:\Users\Wellington Miyake\source\repos\ListView\ListView\obj\Debug\ListView.csproj.GenerateResource.Cache
+C:\Users\Wellington Miyake\source\repos\ListView\ListView\obj\Debug\ListView.csproj.CoreCompileInputs.cache
+C:\Users\Wellington Miyake\source\repos\ListView\ListView\obj\Debug\ListView.exe
+C:\Users\Wellington Miyake\source\repos\ListView\ListView\obj\Debug\ListView.pdb
+C:\Users\Wellington Miyake\source\repos\ListView\ListView\obj\Debug\ListView.Form1.resources
